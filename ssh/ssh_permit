@@ -1,0 +1,5 @@
+permission SSH key phai giong nhau thi moi hieu
+
+chmod go-w ~/
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
